@@ -17,7 +17,7 @@ For SMS pricing by destination, visit our [pricing pages](https://www.sinch.com/
 Then, in the curl command, add the phone number and message you want to send, and add your app key and secret. Once you are finished, you should have something that looks like this:
 
 ````
-curl --user "application\your_app_key:your_app_secret" --data '{"message":"your_message"}' -H 'Content-Type: application/json' https://messagingapi.sinch.com/v1/sms/the_phone_number
+curl --user "application&#92;your_app_key:your_app_secret" --data '{"message":"your_message"}' -H 'Content-Type: application/json' https://messagingapi.sinch.com/v1/sms/the_phone_number
 ````
 
 Copy and paste this into your terminal, wait a few seconds and you should receive the SMS message to the phone number you added in the command.
