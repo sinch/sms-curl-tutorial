@@ -24,4 +24,4 @@ Copy and paste this into your terminal, wait a few seconds and you should receiv
 
 ##What's Next?
 
-This is just a basic demo of our [SMS API](https://www.sinch.com/sms-api/) but read [our documentation](https://www.sinch.com/docs/rest-apis/user-guide/) and other [tutorials](https://www.sinch.com/tutorials/) to see how you can integrate this with your own backend. Any questions, just email the team at [hello@sinch.com](mailto:hello@sinch.com).
+This is just a basic demo of our [SMS API](https://www.sinch.com/sms-api/) but read [our documentation](https://www.sinch.com/docs/) and other [tutorials](https://www.sinch.com/tutorials/) to see how you can integrate this with your own backend. Any questions, just email the team at [hello@sinch.com](mailto:hello@sinch.com).
