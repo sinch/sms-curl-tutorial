@@ -5,7 +5,7 @@ In this tutorial, you will use Curl to send an SMS message to a mobile phone.
 For [SMS API](https://www.sinch.com/products/sms-api/) pricing by destination, visit our [pricing pages](https://www.sinch.com/pricing/sms-prices/).
 
 ##Setup
-1. Create a [Sinch developer account](#signup)
+1. Create a [Sinch developer account](https://www.sinch.com/dashboard/#/signup)
 2. In the dashboard, click “Apps” in the left-hand menu
 3. Click “Create new app”
 4. Give your app a name and click “Create”
