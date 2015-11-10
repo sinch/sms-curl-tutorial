@@ -6,7 +6,7 @@ For [SMS API](https://www.sinch.com/products/sms-api/) pricing by destination, v
 
 We've also made a video tutorial to guide you through the process.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dE-xyeBNAvs" target="_blank"><img src="/images/sending-sms-curl.jpg" 
+<a href="https://www.youtube.com/watch?v=A36GmSKgnzU" target="_blank"><img src="/images/sending-sms-curl.jpg" 
 alt="Send SMS in cURL" width="400" height="281" border="10" /></a>
 
 ##Setup
