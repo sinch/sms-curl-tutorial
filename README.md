@@ -1,8 +1,13 @@
-#Sending SMS With Curl
+#Sending SMS With cURL
 
 In this tutorial, you will use Curl to send an SMS message to a mobile phone.
 
 For [SMS API](https://www.sinch.com/products/sms-api/) pricing by destination, visit our [pricing pages](https://www.sinch.com/pricing/sms-prices/).
+
+We've made a video tutorial as well to guide you through the process.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dE-xyeBNAvs" target="_blank"><img src="/images/sending-sms-curl.jpg" 
+alt="Send SMS in cURL" width="400" height="281" border="10" /></a>
 
 ##Setup
 1. Create a [Sinch developer account](https://www.sinch.com/dashboard/#/signup)
