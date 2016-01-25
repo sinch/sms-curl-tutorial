@@ -29,4 +29,4 @@ Copy and paste this into your terminal, wait a few seconds, and you should recei
 
 ##What's next?
 
-This is just a basic demo of our [SMS API](https://www.sinch.com/products/sms-api/), but read [our documentation](https://www.sinch.com/docs/) and other [tutorials](https://www.sinch.com/tutorials/) to see how you can integrate this with your own backend. Have questions? Just email the team at [hello@sinch.com](mailto:hello@sinch.com).
+This is just a basic demo of our [SMS API](https://www.sinch.com/products/sms-api/), but read [our documentation](https://www.sinch.com/docs/sms/) and other [tutorials](https://www.sinch.com/tutorials/) to see how you can integrate this with your own backend. Have questions? Just email the team at [hello@sinch.com](mailto:hello@sinch.com).
